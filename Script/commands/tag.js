@@ -22,7 +22,7 @@ module.exports.run = async ({ api, event, args }) => {
 
  for (let i = 0; i < repeatCount; i++) {
  await api.sendMessage({
- body: `📢 @everyone\nসবাই চিপা থেকে বের হও 🐸`,
+ body: `📢 @everyone\nসবাই চিপা থেকে বের হও মুড়ি দিমু🐸`,
  mentions
  }, threadID);
 
