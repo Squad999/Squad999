@@ -45,8 +45,8 @@ module.exports.languages = {
 const helpImages = [
     "https://i.imgur.com/O9mM8gZ.jpeg",
     "https://i.imgur.com/TPozj9H.jpeg",
-    "https://i.imgur.com/UW8tSnf.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg",
+    "https://i.imgur.com/WeuOglF.jpeg",
+    "https://i.imgur.com/KQZPVNi.jpeg",
 
 ];
 
