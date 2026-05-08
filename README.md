@@ -18,7 +18,7 @@ MILON CHAT BOT
 
 <br>
 
-<span style="font-size:22px;font-weight:700;color:#FF8A00;">
+<span style="font-size:20px;font-weight:700;color:#FF8A00;">
 Developed By MD MILON SARKAR
 </span>
 
@@ -26,44 +26,38 @@ Developed By MD MILON SARKAR
 
 ---
 
-# 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
+# 🌺 OWNER PROFILE
 
-```yaml
-╠═════════════════════ ✿
-║ 👑 Name        : MD MILON SARKAR
-║ 🧸 Nick Name   : MILON
-║ 🎂 Age         : 23+
-║ 💘 Relation    : Single
-║ 🎓 Profession  : JOB
-║ 📚 Education   : DAKHIL
-║ 🏡 Address     : KURIGRAM
-╠═════════════════════ ✿
-║ 🔗 CONTACT LINKS
-╠═════════════════════ ✿
-║ 📘 Facebook :
-║ https://www.facebook.com/share/1CNLskKAtw/
-║
-║ 💬 Messenger :
-║ https://m.me/100081225144815
-║
-║ 📞 WhatsApp :
-║ HIDE
-║
-║ ✈️ Telegram :
-║ HIDE
-╚═════════════════════ ✿
-✨ FEATURES
-✔️ Multi Device Support
-✔️ Fast & Smooth System
-✔️ Auto Reply System
-✔️ Group Management
-✔️ Fun Commands
-✔️ Admin Commands
-✔️ Music / Video Commands
-✔️ Modern UI Style
-✔️ 24/7 Active Bot
-✔️ Easy To Deploy
-⚙️ INSTALLATION
+<p align="center">
+
+<a href="https://www.facebook.com/share/1CNLskKAtw/">
+  <img src="https://img.shields.io/badge/FACEBOOK-PROFILE-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://m.me/100081225144815">
+  <img src="https://img.shields.io/badge/MESSENGER-CHAT-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# ✨ FEATURES
+
+✔️ Multi Device Support  
+✔️ Fast & Smooth System  
+✔️ Auto Reply System  
+✔️ Group Management  
+✔️ Modern Commands  
+✔️ Premium README Design  
+✔️ 24/7 Active Bot  
+✔️ Easy To Deploy  
+
+---
+
+# ⚙️ INSTALLATION
+
+```bash
 pkg update && pkg upgrade -y
 
 pkg install git -y
@@ -77,12 +71,17 @@ cd YOUR-REPOSITORY-NAME
 npm install
 
 npm start
-📦 DEPLOY TO RENDER
-Build Command:
-npm install
+📦 DEPLOY
+�
 
-Start Command:
-npm start
+�
+￼
+�
+￼
+�
+￼
+�
+
 🛡️ BOT STATUS
 �
 
@@ -91,13 +90,7 @@ npm start
 �
 ￼
 �
-￼
-�
 
-💖 SPECIAL THANKS
-✨ Allah
-✨ Open Source Community
-✨ All Bot Users
 💞 THANKS FOR USING MILON CHAT BOT
 �
 ￼ 
