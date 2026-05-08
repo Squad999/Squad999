@@ -34,11 +34,9 @@ Location: KURIGRAM, BANGLADESH
 
 # 📞 CONTACT
 
-### 💬 Messenger
-https://m.me/100081225144815
+### 💬 <a href="https://m.me/100081225144815">Messenger</a>
 
-### 📘 Facebook
-https://www.facebook.com/share/1CNLskKAtw/
+### 📘 <a href="https://www.facebook.com/share/1CNLskKAtw/">Facebook</a>
 
 ---
 
